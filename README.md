@@ -18,7 +18,7 @@ When I am AFK, you can find me swing dancing, sewing or hiking !
   <br>
 </div>
 
-### My recent blog posts (and only one for the moment)
+### :black_nib: My recent blog posts (and only one for the moment)
 
 <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@doniacld/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@doniacld/0" alt="Recent Article 0"></a>
 <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@doniacld/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@doniacld/1" alt="Recent Article 1"></a>
