@@ -10,6 +10,7 @@ When I am AFK, you can find me swing dancing, sewing or hiking !
 ### 🔭 My last contributions
 
 
+- [kidle-dev/kidle](https://github.com/kidle-dev/kidle)
 - [mgechev/revive](https://github.com/mgechev/revive)
 - [doniacld/outdoorsight](https://github.com/doniacld/outdoorsight)
 - [doniacld/adventofcode](https://github.com/doniacld/adventofcode)
