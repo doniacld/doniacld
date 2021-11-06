@@ -10,11 +10,11 @@ When I am AFK, you can find me swing dancing, sewing or hiking !
 ### 🔭 My last contributions
 
 
+- [doniacld/doniacld.github.io](https://github.com/doniacld/doniacld.github.io)
 - [mgechev/revive](https://github.com/mgechev/revive)
 - [kidle-dev/kidle](https://github.com/kidle-dev/kidle)
 - [doniacld/outdoorsight](https://github.com/doniacld/outdoorsight)
 - [doniacld/adventofcode](https://github.com/doniacld/adventofcode)
-- [doniacld/codejam](https://github.com/doniacld/codejam)
 
   <br>
 </div>
