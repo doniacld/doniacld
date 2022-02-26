@@ -10,11 +10,11 @@ When I am AFK, you can find me swing dancing, sewing or hiking !
 ### 🔭 My last contributions
 
 
+- [doniacld/tinygo-discovery](https://github.com/doniacld/tinygo-discovery)
 - [philippart-s/blog](https://github.com/philippart-s/blog)
 - [doniacld/grpc-in-go](https://github.com/doniacld/grpc-in-go)
 - [doniacld/adventofcode](https://github.com/doniacld/adventofcode)
 - [doniacld/doniacld.github.io](https://github.com/doniacld/doniacld.github.io)
-- [mgechev/revive](https://github.com/mgechev/revive)
 
   <br>
 </div>
